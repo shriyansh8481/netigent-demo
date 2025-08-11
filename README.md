@@ -1,3 +1,3 @@
 # netigent-demo
-This my first Git Repository
-author-shriyansh vishwakarma
+This my first Git Repository.
+Author-shriyansh vishwakarma
